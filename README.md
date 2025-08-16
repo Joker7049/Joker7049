@@ -17,13 +17,13 @@
 
 ## 🚀 Projects & Learning
 - [📱 Daily Quote ](https://github.com/Joker7049/DailyQuoteSaver) 
-- [✍️ Learning Notes](#) *(optional repo with what you’re learning)*  
+- [✍️ Learning Notes](#) 
 
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](#) *(add link when ready)*  
-- [Twitter/X](#) *(optional)*  
+- [LinkedIn](#) 
+- [Twitter/X](#) 
 - [Email](#) asadashoori007@gmail.com  
 
 ---
