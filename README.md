@@ -17,7 +17,7 @@
 
 ## 🚀 Projects & Learning
 - [📱 Daily Quote ](https://github.com/Joker7049/DailyQuoteSaver) 
-- [✍️ Learning Notes](#) 
+- [✍️ Learning Notes](https://github.com/Joker7049/Dev-Journey) 
 
 ---
 
