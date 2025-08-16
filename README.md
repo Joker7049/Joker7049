@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projects & Learning
-- [📱 Sample KMP App](#) *(your future pinned repo)*  
+- [📱 Daily Quote ](https://github.com/Joker7049/DailyQuoteSaver) 
 - [✍️ Learning Notes](#) *(optional repo with what you’re learning)*  
 
 ---
